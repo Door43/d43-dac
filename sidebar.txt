@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[dac:home|Door43 (dac)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-dac|d43-dac repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-dac/archive/master.zip|d43-dac.zip]]
+
+**Recent Changes**
+{{changes>ns = dac}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/dac|Ethnologue data]]
+
